@@ -1,0 +1,108 @@
+body{
+
+
+  margin: 0;
+
+}
+ul{
+  list-style-type: none;
+
+}
+
+nav{
+  padding-top: 20px;
+
+  color: white;
+  background-color: #FF6347;
+  height: 70px;
+
+}
+nav li{
+
+  display: inline;
+  padding-left:60px;
+  float: left;
+}
+input{
+  width:400px;
+  height: 40px;
+  position: absolute;left: 850px;
+}
+ul li{
+  display: inline;
+}
+
+
+}
+ p{
+   color: #FF6347;
+  position:relative;
+  left: 540px;
+  bottom: 300px;
+  font-size: 40px;
+  position: relative;
+
+}
+
+
+span{
+  color: #00FFFF;
+}
+
+.button {
+  position: relative;
+  bottom: 300px;
+  left: 700px;
+    background-color: #40E0D0;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+#footer {
+
+    background:#FF6347;
+    clear: both;
+    height: 100px;
+    margin-top: -100px;
+    padding-top: 0;
+    position: relative;
+    width: 500%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#FF6347;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #FF6347;
+}
+
+.active {
+    background-color: #FF6347;
+}
+
+}

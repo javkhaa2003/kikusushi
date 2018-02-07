@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+
+<script src="https://use.fontawesome.com/f8df00311b.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<scr
+		<meta charset="utf-8">
+		<title></title>
+		<link rel="stylesheet" href="main.css">
+		<header>
+			<div class="">
+
+			</div>
+
+
+</header>
+	</head>
+	<body>
+
+
+<nav>
+
+
+		<ul>
+			<li class="fa fa-apple" aria-hidden="true"></i>
+			<li>Mac
+				<li>IPad
+					<li>Iphone
+						<li>Watch
+							<li>TV
+								<li>Music
+									<li> Support
+				 						<li class=class1> <span class="glyphicon glyphicon-shopping-cart"></span>
+				   			<li class="fa fa-search">
+		</ul>
+	</nav>
+
+												<h1>“iPhone X”</h1>
+												<h2>Say hello to the future.</h2>
+												<img src="apple image_files" alt=""  height="1000px" width="100px">
+
+												<img src="iphone_7_small_2x.jpg">
+
+
+												</img>
+	</body>
+</html>

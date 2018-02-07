@@ -1,0 +1,26 @@
+.tttle {
+	text-align: center;
+	font-size: 50px;
+}
+
+.correct {
+	color: green;
+}
+
+.incorrect {
+	color: red;
+}
+
+.form-group > div {
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 1.1;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+h1.correct, h1.incorrect {
+width: 250px;
+}
+
+

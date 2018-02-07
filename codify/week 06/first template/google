@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Including the Favorite Icon -->
+    <link role="shortcut icon"href="favicon.ico">
+    <!-- Computer Character Set - Not to Important -->
+    <meta charset="UTF-8">
+    <!--Description of the Website-->
+    <meta charset="UTF-8">
+    <!--Description of the Website -->
+    <meta name="description" content="Codify Academy's Google replication">
+    <!-- keywords for Document -->
+    <meta name="keywords" content=Codfy Academy, Google Replication">
+    <!--Author of Document -->
+    <meta name="author" content="Chris Brody @ Codify Academy">
+    <!-- Title -->
+    <title>Google Replica </title>
+    <!-- Font Awesome -->
+    <script src="https://use.fontawesome.com/9a 77ea3aef.js"></script>script>
+    <!--Author Custm CSS -->
+    <link rel="stylesheet " href="css/main.css">
+    </head>
+    <body>
+    <!--Top section  - Navigatu
+
+
+
+
+    <title></title>
+  </head>
+  <body>
+
+  </body>
+</html>

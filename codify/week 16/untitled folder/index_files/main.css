@@ -1,0 +1,55 @@
+body{
+
+
+  margin: 0;
+
+}
+ul{
+  list-style-type: none;
+
+}
+
+nav{
+  padding-top: 20px;
+  color: white;
+  background-color: orange;
+  height: 70px;
+
+}
+nav li{
+
+  display: inline;
+  padding-left:60px;
+  float: left;
+}
+input{
+  width: 200px;
+  height: 40px;
+  position: absolute;left: 850px;
+}
+section{
+  width: 500px;
+  height: 500px;
+
+}
+ p{
+   color: orange;
+  position:relative;
+  left: 540px;
+  bottom: 300px;
+  font-size: 40px;
+  position: relative;
+  r
+}
+
+
+span{
+  color: blue;
+}
+
+  button class one{
+    width: 300px;
+          height: 50px;
+          position: absolute;left: 500px;
+          top: 400px;
+  }

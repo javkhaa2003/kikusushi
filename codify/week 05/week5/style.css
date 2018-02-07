@@ -1,0 +1,18 @@
+li {
+  background-color: red;
+  margin: auto;
+  padding: inherit;
+
+  .box{
+  float: left;*/
+  width: 50%;
+  background-color:blue
+  height: 5px solid red;*/
+ }
+
+  img {
+    border: 10px solid tomoato
+
+  }
+
+}

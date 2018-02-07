@@ -1,0 +1,32 @@
+
+
+var arr =['chirs', 'mak', 'ynez', 'davon', ];
+//array
+
+console.log(arr[arr.length-1]);
+ if(2=2){
+ console.log("this is true")
+ }else{
+ console.log('this is  not true')
+ }
+//for looop
+for (var i=0; i,arr.length; i++){
+  if(arr[i] ==='abe'){
+  console.log('your name is abe!!!')
+}else{
+  console.log("you're not abe")
+}
+}
+if(typeof arr[i] ==='numbar'){
+	console.log('im a number')
+}
+if(typeof arr[i] ==='boolean'){
+	console.log('im a number')
+}
+if(typeof arr[i] ==='string'){
+	console.log('im a number')
+}
+
+
+}
+</script>
